@@ -1,0 +1,14 @@
+{
+  "name": "insert-sample-into-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "samples": "node scripts/samples.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "3.2.7"
+  }
+}
